@@ -1,3 +1,5 @@
+import DemoTest from "./components/TestDemo";
+
 export default function Home() {
-  return <div></div>;
+  return <DemoTest />;
 }
